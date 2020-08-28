@@ -1,4 +1,4 @@
-# GitTools 
+# Git Tool 
 
 You can use this tool to find websites with their .git repository available to the public
 
