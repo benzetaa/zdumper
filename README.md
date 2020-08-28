@@ -2,6 +2,7 @@
 
 You can use this tool to find websites with their .git repository available to the public
 
+```
 ###########
 #### Finder is part of https://github.com/CapuzSec/Benzeta-Dumper/
 #
@@ -10,6 +11,7 @@ You can use this tool to find websites with their .git repository available to t
 # Use at your own risk. Usage might be illegal in certain circumstances.
 # Only for educational purposes!
 ###########
+```
 
 ### Usage 
 
