@@ -18,3 +18,5 @@ You can use this tool to find websites with their .git repository available to t
 ```
 $ ./domains-git.sh [TARGET.COM] 
 ```
+
+![Benzeta-Dumper](https://github.com/CapuzSec/Benzeta-Dumper/blob/master/domain-git.png)
