@@ -3,7 +3,7 @@
 You can use this tool to find websites with their .git repository available to the public
 
 ###########
-# Finder is part of https://github.com/CapuzSec/Benzeta-Dumper/
+#### Finder is part of https://github.com/CapuzSec/Benzeta-Dumper/
 #
 # Developed and maintained by @CapuzSec 
 #
