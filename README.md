@@ -15,7 +15,7 @@ You can use this tool to find websites with their .git repository available to t
 
 ### Dependencies
 
-´´
+```
 httpx
 https://github.com/projectdiscovery/httpx
 ```
