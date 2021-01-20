@@ -13,7 +13,7 @@ You can use this tool to find websites with their .git repository available to t
 ###########
 ```
 
-### Dependencies - httpx
+### Dependencies - httpx / jq
 
 The installation is easy. You can download the pre-built binaries for your platform from the [Releases](https://github.com/projectdiscovery/httpx/releases/) page. Extract them using tar, move it to your `$PATH`and you're ready to go.
 
@@ -24,6 +24,24 @@ Download latest binary from https://github.com/projectdiscovery/httpx/releases
 ▶ mv httpx-linux-amd64 /usr/local/bin/httpx
 ▶ httpx -h
 ``` 
+
+Para installar o jq 
+
+```
+sudo apt install jq
+```
+
+
+
+### Install 
+
+```sh
+git clone https://github.com/CapuzSec/Benzeta-Dumper.git
+cd Benzeta-Dumper
+chmod +x httpx-domains-git.sh
+
+```
+
 
 ### Usage 
 
