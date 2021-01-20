@@ -25,7 +25,7 @@ Download latest binary from https://github.com/projectdiscovery/httpx/releases
 ▶ httpx -h
 ``` 
 
-Para installar o jq 
+To install jq
 
 ```
 sudo apt install jq
