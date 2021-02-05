@@ -46,7 +46,7 @@ chmod +x httpx-domains-git.sh
 ### Usage 
 
 ```
-$ ./domains-git.sh [TARGET.COM] 
+$ ./httpx-domains-git.sh [TARGET.COM] 
 ```
 
 ![Benzeta-Dumper](https://github.com/CapuzSec/Benzeta-Dumper/blob/master/git-dumper.png)
