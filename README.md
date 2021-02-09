@@ -15,11 +15,8 @@ You can use this tool to find websites with their .git repository available to t
 
 ### Dependencies - httpx / jq
 
-The installation is easy. You can download the pre-built binaries for your platform from the [Releases](https://github.com/projectdiscovery/httpx/releases/) page. Extract them using tar, move it to your `$PATH`and you're ready to go.
-
-```sh
-Download latest binary from https://github.com/projectdiscovery/httpx/releases
-
+To install httpx [Github](https://github.com/projectdiscovery/httpx)
+``` 
 GO111MODULE=on go get -v github.com/projectdiscovery/httpx/cmd/httpx
 ``` 
 
@@ -29,18 +26,15 @@ To install jq
 sudo apt install jq
 ```
 
-To install subfinder 
+To install subfinder [Github](https://github.com/tomnomnom/assetfinder)
 
-```
-Github: https://github.com/tomnomnom/assetfinder
-
+``` 
 GO111MODULE=on go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
 ```
 
-To install assetfinder
+To install assetfinder [Github](https://github.com/projectdiscovery/subfinder)
 
-```
-Github: https://github.com/projectdiscovery/subfinder
+``` 
 go get -u github.com/tomnomnom/assetfinder
 ```
 
