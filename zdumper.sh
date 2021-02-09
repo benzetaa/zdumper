@@ -27,7 +27,7 @@ banner_help (){
     echo -e  " -h: Help menu"  
     echo -e  " -d or --domain: Set domain"
     echo -e  " -sc or --status-code: Extracts status code\n"
-    echo -e  " Use: ./$0 -d target.com -sc 200\n"  
+    echo -e  " Use: $0 -d target.com -sc 200\n"  
 }
  
 
