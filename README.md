@@ -55,4 +55,4 @@ chmod +x zdumper.sh
 $ ./zdumper.sh -h
 ```
 
-![Benzeta-Dumper](https://github.com/CapuzSec/Benzeta-Dumper/blob/master/git-dumper.png)
+![Benzeta-Dumper](https://github.com/CapuzSec/Benzeta-Dumper/blob/master/A6SD57AS6D57AD5S7A6D57A6S5D.PNG)
