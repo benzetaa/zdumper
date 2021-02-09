@@ -4,9 +4,9 @@ You can use this tool to find websites with their .git repository available to t
 
 ``` 
 ###########
-# Finder is part of https://github.com/CapuzSec/Benzeta-Dumper/
+# Finder is part of https://github.com/CapuzSec/zdumper
 #
-# Developed and maintained by @CapuzSec 
+# Developed and maintained by @benzetaa 
 #
 # Use at your own risk. Usage might be illegal in certain circumstances.
 # Only for educational purposes!
@@ -20,9 +20,7 @@ The installation is easy. You can download the pre-built binaries for your platf
 ```sh
 Download latest binary from https://github.com/projectdiscovery/httpx/releases
 
-▶ tar -xvf httpx-linux-amd64.tar
-▶ mv httpx-linux-amd64 /usr/local/bin/httpx
-▶ httpx -h
+GO111MODULE=on go get -v github.com/projectdiscovery/httpx/cmd/httpx
 ``` 
 
 To install jq
@@ -31,14 +29,28 @@ To install jq
 sudo apt install jq
 ```
 
+To install subfinder 
+
+```
+Github: https://github.com/tomnomnom/assetfinder
+
+GO111MODULE=on go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+```
+
+To install assetfinder
+
+```
+Github: https://github.com/projectdiscovery/subfinder
+go get -u github.com/tomnomnom/assetfinder
+```
 
 
 ### Install 
 
 ```sh
-git clone https://github.com/CapuzSec/Benzeta-Dumper.git
-cd Benzeta-Dumper
-chmod +x httpx-domains-git.sh
+git clone https://github.com/CapuzSec/zdumper.git
+cd zdumper
+chmod +x zdumper.sh
 
 ```
 
@@ -46,7 +58,7 @@ chmod +x httpx-domains-git.sh
 ### Usage 
 
 ```
-$ ./httpx-domains-git.sh [TARGET.COM] 
+$ ./zdumper.sh -h
 ```
 
 ![Benzeta-Dumper](https://github.com/CapuzSec/Benzeta-Dumper/blob/master/git-dumper.png)
