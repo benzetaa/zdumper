@@ -26,13 +26,13 @@ To install jq
 sudo apt install jq
 ```
 
-To install subfinder [Github](https://github.com/tomnomnom/assetfinder)
+To install assetfinder [Github](https://github.com/projectdiscovery/subfinder)
 
 ``` 
 GO111MODULE=on go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
 ```
 
-To install assetfinder [Github](https://github.com/projectdiscovery/subfinder)
+To install subfinder [Github](https://github.com/tomnomnom/assetfinder)
 
 ``` 
 go get -u github.com/tomnomnom/assetfinder
